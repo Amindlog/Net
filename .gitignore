@@ -1,0 +1,16 @@
+.vscode/
+/address.NET/.vscode/*
+/address.NET/bin/*
+/address.NET/obj/*
+
+/WebClient/.vscode/*
+/WebClient/bin/*
+/WebClient/obj/*
+
+/WebRequestResponse/.vscode/*
+/WebRequestResponse/bin/*
+/WebRequestResponse/obj/*
+
+/HttpWebRequestHttpWebResponse/.vscode/*
+/HttpWebRequestHttpWebResponse/bin/*
+/HttpWebRequestHttpWebResponse/obj/*
